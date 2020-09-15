@@ -18,7 +18,7 @@ O tema escolhido foi criar uma aplicação para atendimento remoto de Nutricioni
 #### :bulb: Processo
 O projeto foi desenvolvido seguindo o método Double Diamond :gem:<br><br>
 Foram realizadas pesquisas quantitativa (google forms) e qualitativa (whatsapp).<br><br>
-O fluxo de criação do projeto foi construído no Miro:
+O fluxo de criação do projeto foi construído utilizando a plataforma Miro:
 ![miro img](https://github.com/lais-mm/callhealth-ux-nlw/blob/master/public/imagens/miro.jpg)
 As ferramentas escolhidas para cada fase do Double Diamond foram:<br><br>
 :diamonds:Imersão (Matriz CSD; Card sorting; Top insights)<br>
